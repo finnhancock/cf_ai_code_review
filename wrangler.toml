@@ -1,0 +1,6 @@
+name = "cf-ai-code-review"
+main = "worker.js"
+compatibility_date = "2024-03-08"
+
+[ai]
+binding = "AI"
